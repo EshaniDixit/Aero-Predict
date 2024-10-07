@@ -12,7 +12,7 @@ This project is a web application that continuously monitors air quality across 
 6. [Installation and Setup](#installation-and-setup)
 ## Project Overview
 
-The goal of this project is to provide a user-friendly interface for predicting air quality levels for cities. The machine learning model analyzes historical air quality data and environmental factors to predict the AQI, along with levels of key pollutants such as PM2.5, PM10, NO2, and O3. The system uses Flask to provide a web interface where users can enter a city and get an instant prediction of the air quality.
+This project is an AI-powered air quality monitoring and prediction system that uses various sensors to collect real-time data on air pollutants and environmental conditions. The system employs Intel optimized libraries, including oneAPI Data Analytics Library (oneDAL) and oneAPI Deep Neural Network Library (oneDNN), for efficient data analysis and AI model performance. The system is designed to predict air quality levels and provide insights for proactive decision-making to improve environmental health and sustainability.
 
 ## Features
 
@@ -54,4 +54,3 @@ The air quality data used in this project comes from historical records of air q
 ```bash
 pip install -r requirements.txt
 python app.py
-cfvchjknjk
