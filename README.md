@@ -69,4 +69,4 @@ The website must be running properly now and you can access it in http://127.0.0
 2. *Submit:* Click on the "Get Prediction" button to fetch the air quality data.
 
 3. *See Prediction:* The prediction result will be displayed on the screen.
-## Made with Muktha Meti(https://github.com/MukthaMeti)
+## With collaborator Muktha Meti(https://github.com/MukthaMeti)
